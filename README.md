@@ -32,6 +32,7 @@ toute personne qui veut aller au-delà des explications de surface.
 |---|----------|-------|
 | 01 | [`notebook-01-rendement-volatilite.ipynb`](./notebook-01-rendement-volatilite.ipynb) | Rendement et volatilité |
 | 02 | [`notebook_02-market_maker.ipynb`](./notebook_02-market_maker.ipynb) | Market Maker |
+| 03 | [`notebook_03-No_arbitrage.ipynb`](./notebook_03-no_arbitrage.ipynb) | No arbitrage (FX) |
 
 ---
 
