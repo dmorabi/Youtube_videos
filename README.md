@@ -34,7 +34,7 @@ toute personne qui veut aller au-delà des explications de surface.
 | 02 | [`notebook_02-market_maker.ipynb`](./notebook_02-market_maker.ipynb) | Market Maker |
 | 03 | [`notebook_03-No_arbitrage.ipynb`](./notebook_03-no_arbitrage.ipynb) | No arbitrage (FX) |
 | 04 | [`notebook_04-Discounting.ipynb`](./notebook_04-discounting.ipynb) | Actualisation et taux |
-
+| 04 | [`notebook_05-Forex.ipynb`](./notebook_05-forex.ipynb) | Forex (Forward/Spot) |
 ---
 
 ## 🚀 Comment utiliser ces notebooks
